@@ -1,2 +1,3 @@
-# study-tracker-cli
-A small CLI tool that reads study sessions from a text file and provides basic analysis like session counts, totals, filtering, and sorting.
+# Study Tracker CLI
+
+A simple command-line tool that reads study session data from a plain text file and performs basic analysis.
